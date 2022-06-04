@@ -19,5 +19,6 @@ document.addEventListener('DOMContentLoaded', (){
     alert(e.keyCode)
   }
 
-  document.keyEventListener('keydown', control)
+  document.addEventListener('keydown', control)
+  startBtn.addEventListener('click')
 })
