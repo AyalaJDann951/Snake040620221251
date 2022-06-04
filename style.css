@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background: ligthsteelblue;
+}
+
+.grid{
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  border-style: solid;
+  border-radius: 20px;
+  background: rgb(3, 22, 9);
+}
