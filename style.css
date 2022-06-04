@@ -23,3 +23,8 @@ body{
   width: 20%;
   padding: 50px;
 }
+
+.snake{
+  background-color: blue;
+  border-radius: 10px;
+}
