@@ -12,3 +12,8 @@ body{
   border-radius: 20px;
   background: rgb(3, 22, 9);
 }
+
+.grid div{
+  width: 20px;
+  height: 20px;
+}
