@@ -58,3 +58,11 @@ button:hover{
   padding: 20px;
   fond-size: 26px;
 }
+
+.score{
+  color: rgb(8, 132, 173);
+}
+
+.live{
+  color: rgb(177, 19, 19);
+}
