@@ -17,3 +17,9 @@ body{
   width: 20px;
   height: 20px;
 }
+
+.content{
+  float: left;
+  width: 20%;
+  padding: 50px;
+}
